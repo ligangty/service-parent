@@ -44,7 +44,7 @@
 
     <quarkus.version>3.6.9</quarkus.version>
     <opentelemery.version>1.30.1</opentelemery.version>
-    <netty.version>4.1.106.Final</netty.version>
+    <netty.version>4.1.131.Final</netty.version>
 
     <junit.version>5.10.1</junit.version>
     <indy-security.version>1.3</indy-security.version>
